@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="title">The eye</string>
+    <string name="text_tap">Tap on generate to start</string>
+</resources>
